@@ -16,7 +16,8 @@ Features
 
  Login Page : 
 
-![login](https://github.com/PrajaktaUpadhye6/FlipKart/assets/114932406/80c9c83c-4670-4ea0-a535-3915350877f2)
+
+![login1](https://github.com/PrajaktaUpadhye6/FlipKart/assets/114932406/0f00022c-ab93-4f31-9a02-8a28b115b0b3)
 
 User’s Login/registration details which include name ,mobile no.,email-id  and other details.
 
