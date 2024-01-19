@@ -17,7 +17,11 @@ Users from firebase storage.
 
 
 
+
+
+
 Account details : 
+
 
 ![account](https://github.com/PrajaktaUpadhye6/FlipKart/assets/114932406/82c92603-9870-4ea2-be2e-923b8f1f3626)
 
@@ -32,7 +36,11 @@ Submit button.
 
 
 
+
+
+
 Homepage : 
+
 
 ![home](https://github.com/PrajaktaUpadhye6/FlipKart/assets/114932406/2a515a41-5e23-4024-94ef-4313c083d7f5)
 
@@ -48,7 +56,10 @@ Widgets like categories , notification , account and cart.
 
 
 
+
+
 Product Description :
+
 
 ![details](https://github.com/PrajaktaUpadhye6/FlipKart/assets/114932406/faee3ceb-c8fe-40f0-82e7-cd8b11a9781f)
 
@@ -61,7 +72,11 @@ Buttons to add to cart and buying the product.
 
 
 
+
+
+
 My Cart :
+
 
 ![cart](https://github.com/PrajaktaUpadhye6/FlipKart/assets/114932406/06e8831f-b59e-45d2-b2f9-5e04bdeb318b)
 
