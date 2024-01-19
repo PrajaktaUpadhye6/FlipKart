@@ -20,7 +20,7 @@ Users from firebase storage.
 
 
 
-2) details : 
+2) Account Details : 
 
 
 ![account](https://github.com/PrajaktaUpadhye6/FlipKart/assets/114932406/82c92603-9870-4ea2-be2e-923b8f1f3626)
