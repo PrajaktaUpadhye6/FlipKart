@@ -1,18 +1,6 @@
 # FlipKart
-Name: Prajakta Upadhye
-Class : D15A 
-Roll NO : 65
 
-Aim: Selecting features for application development, the features should comprise of:
-Common widgets
-Should include icons, images, charts etc.
-Should have an interactive Form
-Should apply navigation, routing and gestures
-Should connect with FireBase database
-
-
-Screen-shot
-Features
+Screen-shot and Features:
 
  Login Page : 
 
